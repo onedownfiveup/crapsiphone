@@ -1,0 +1,296 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* crapsiphoneAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{250, 0}";
+			sepNavVisRange = "{0, 663}";
+			sepNavWindowFrame = "{{153, 89}, {750, 558}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* crapsiphoneAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 494}}";
+			sepNavSelRange = "{326, 0}";
+			sepNavVisRange = "{0, 837}";
+			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* crapsiphone */ = {
+		activeExec = 0;
+		executables = (
+			5D31226411CE733B00392B7D /* crapsiphone */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* crapsiphoneViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{483, 37}";
+			sepNavVisRange = "{0, 528}";
+			sepNavWindowFrame = "{{61, 173}, {750, 558}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* crapsiphoneViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {798, 806}}";
+			sepNavSelRange = "{336, 374}";
+			sepNavVisRange = "{160, 788}";
+			sepNavWindowFrame = "{{84, 152}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5D31226411CE733B00392B7D /* crapsiphone */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* crapsiphone */;
+		breakpoints = (
+			5D50A6CC11CEC22F00812B02 /* crapsiphoneViewController.m:42 */,
+		);
+		codeSenseManager = 5D31227E11CE734400392B7D /* Code sense */;
+		executables = (
+			5D31226411CE733B00392B7D /* crapsiphone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					620,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 298769160;
+			PBXWorkspaceStateSaveDate = 298769160;
+		};
+		perUserProjectItems = {
+			5D31234B11CE968200392B7D /* PBXTextBookmark */ = 5D31234B11CE968200392B7D /* PBXTextBookmark */;
+			5D31234C11CE968200392B7D /* PBXTextBookmark */ = 5D31234C11CE968200392B7D /* PBXTextBookmark */;
+			5D50A6D011CEC25800812B02 /* PBXTextBookmark */ = 5D50A6D011CEC25800812B02 /* PBXTextBookmark */;
+			5D50A6D111CEC25800812B02 /* PBXTextBookmark */ = 5D50A6D111CEC25800812B02 /* PBXTextBookmark */;
+			5D50A6D211CEC25800812B02 /* PBXTextBookmark */ = 5D50A6D211CEC25800812B02 /* PBXTextBookmark */;
+			5D50A6D411CEC25800812B02 /* PBXTextBookmark */ = 5D50A6D411CEC25800812B02 /* PBXTextBookmark */;
+			5D50A6D911CEC25800812B02 /* PBXTextBookmark */ = 5D50A6D911CEC25800812B02 /* PBXTextBookmark */;
+			5D50A81311CEDB7E00812B02 /* PBXBookmark */ = 5D50A81311CEDB7E00812B02 /* PBXBookmark */;
+			5D50A81411CEDB8300812B02 /* PBXTextBookmark */ = 5D50A81411CEDB8300812B02 /* PBXTextBookmark */;
+			5D50A81911CEDB8300812B02 /* PBXTextBookmark */ = 5D50A81911CEDB8300812B02 /* PBXTextBookmark */;
+			5D50A81A11CEDB8300812B02 /* PBXTextBookmark */ = 5D50A81A11CEDB8300812B02 /* PBXTextBookmark */;
+			5D50A81B11CEDB8300812B02 /* PBXTextBookmark */ = 5D50A81B11CEDB8300812B02 /* PBXTextBookmark */;
+			5D50A81C11CEDB8300812B02 /* PBXTextBookmark */ = 5D50A81C11CEDB8300812B02 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5D31227D11CE734400392B7D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5D31226411CE733B00392B7D /* crapsiphone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = crapsiphone;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5D31227D11CE734400392B7D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5D31227E11CE734400392B7D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5D31234B11CE968200392B7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* crapsiphoneAppDelegate.h */;
+		name = "crapsiphoneAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 250;
+		rType = 0;
+		vrLen = 663;
+		vrLoc = 0;
+	};
+	5D31234C11CE968200392B7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* crapsiphoneAppDelegate.m */;
+		name = "crapsiphoneAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 711;
+		rType = 0;
+		vrLen = 711;
+		vrLoc = 0;
+	};
+	5D50A6CC11CEC22F00812B02 /* crapsiphoneViewController.m:42 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* crapsiphoneViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 42;
+		modificationTime = 298762799.535377;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	5D50A6D011CEC25800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* crapsiphoneViewController.h */;
+		name = "crapsiphoneViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	5D50A6D111CEC25800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA02257C115FE8A90074D8B1 /* DetailBetController.m */;
+		name = "DetailBetController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 0;
+	};
+	5D50A6D211CEC25800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA02257B115FE8A90074D8B1 /* DetailBetController.h */;
+		name = "DetailBetController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 277;
+		vrLoc = 0;
+	};
+	5D50A6D411CEC25800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* crapsiphoneViewController.m */;
+		name = "crapsiphoneViewController.m: 15";
+		rLen = 408;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 160;
+	};
+	5D50A6D911CEC25800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA02257C115FE8A90074D8B1 /* DetailBetController.m */;
+		name = "DetailBetController.m: 19";
+		rLen = 0;
+		rLoc = 414;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 141;
+	};
+	5D50A81311CEDB7E00812B02 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* crapsiphoneViewController.m */;
+	};
+	5D50A81411CEDB8300812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* crapsiphoneViewController.m */;
+		name = "crapsiphoneViewController.m: 17";
+		rLen = 374;
+		rLoc = 336;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 160;
+	};
+	5D50A81911CEDB8300812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* crapsiphoneViewController.m */;
+		name = "crapsiphoneViewController.m: 15";
+		rLen = 408;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 0;
+	};
+	5D50A81A11CEDB8300812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* crapsiphoneViewController.h */;
+		name = "crapsiphoneViewController.h: 20";
+		rLen = 37;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	5D50A81B11CEDB8300812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* crapsiphoneViewController.h */;
+		name = "crapsiphoneViewController.h: 20";
+		rLen = 37;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	5D50A81C11CEDB8300812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA02257C115FE8A90074D8B1 /* DetailBetController.m */;
+		name = "DetailBetController.m: 19";
+		rLen = 0;
+		rLoc = 414;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 141;
+	};
+	CA02257B115FE8A90074D8B1 /* DetailBetController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {798, 328}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 277}";
+			sepNavWindowFrame = "{{107, 131}, {750, 558}}";
+		};
+	};
+	CA02257C115FE8A90074D8B1 /* DetailBetController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 598}}";
+			sepNavSelRange = "{414, 0}";
+			sepNavVisRange = "{141, 862}";
+			sepNavWindowFrame = "{{130, 110}, {750, 558}}";
+		};
+	};
+}

@@ -1,0 +1,854 @@
+Tcrapsiphone
+v7
+r0
+t298751606.636908
+cCheck dependencies
+cProcessInfoPlistFile /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/Info.plist crapsiphone-Info.plist
+cCompileXIB /Users/csilverstein/Sandbox/crapsiphone/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/crapsiphone.app/craps.gif craps.gif
+cCompileXIB /Users/csilverstein/Sandbox/crapsiphone/Classes/DetailBet.xib
+cCompileXIB /Users/csilverstein/Sandbox/crapsiphone/crapsiphoneViewController.xib
+cProcessPCH /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/crapsiphone_Prefix-fmktgtubgrbauiabzjpvkvleccuq/crapsiphone_Prefix.pch.gch crapsiphone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o /Users/csilverstein/Sandbox/crapsiphone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o /Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o /Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o /Users/csilverstein/Sandbox/crapsiphone/Classes/DetailBetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone normal i386
+cGenerateDSYMFile /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+cTouch /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/constantine/Sandbox/crapsiphone/../../Downloads/craps.gif
+c000000004BAEC48F0000000000002927
+t1269744783
+s10535
+
+N/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.h
+c000000004BAED43100000000000001FE
+t1269748785
+s510
+i<UIKit/UIKit.h>
+
+N/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m
+c000000004BAED43100000000000002BE
+t1269748785
+s702
+i"crapsiphoneAppDelegate.h"
+i"crapsiphoneViewController.h"
+
+N/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.h
+c000000004BAED7920000000000000177
+t1269749650
+s375
+i<UIKit/UIKit.h>
+
+N/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m
+c000000004BAEED330000000000000701
+t1269755187
+s1793
+i"crapsiphoneViewController.h"
+
+N/Users/constantine/Sandbox/crapsiphone/MainWindow.xib
+c000000004BAED4310000000000002678
+t1269748785
+s9848
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app
+t1269757727
+s272
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM
+t1269755188
+s102
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/Info.plist
+t1269757727
+s678
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/MainWindow.nib
+t1269748811
+s1518
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/PkgInfo
+t1269757727
+s8
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/craps.gif
+t1269751844
+s10535
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+t1269755188
+s20308
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphoneViewController.nib
+t1269756761
+s9427
+
+N/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphone.LinkFileList
+c000000004BAED44B00000000000001AD
+t1269748811
+s429
+
+N/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o
+t1269749652
+s38272
+
+N/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o
+t1269755188
+s32740
+
+N/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o
+t1269748812
+s5948
+
+N/Users/constantine/Sandbox/crapsiphone/crapsiphoneViewController.xib
+c000000004BAEF351000000000000DF25
+t1269756753
+s57125
+
+N/Users/constantine/Sandbox/crapsiphone/crapsiphone_Prefix.pch
+c000000004BAED43100000000000000BF
+t1269748785
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/constantine/Sandbox/crapsiphone/main.m
+c000000004BAED4310000000000000174
+t1269748785
+s372
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Sandbox/crapsiphone/Classes/DetailBet.xib
+c000000004C1E3B580000000000006248
+t1277049688
+s25160
+
+N/Users/csilverstein/Sandbox/crapsiphone/Classes/DetailBetController.h
+c000000004C1E3B580000000000000115
+t1277049688
+s277
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Sandbox/crapsiphone/Classes/DetailBetController.m
+c000000004C1E3B58000000000000045B
+t1277049688
+s1115
+i"DetailBetController.h"
+
+N/Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.h
+c000000004C1E3CCD0000000000000297
+t1277050061
+s663
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m
+c000000004C1E3B58000000000000034C
+t1277049688
+s844
+i"crapsiphoneAppDelegate.h"
+i"crapsiphoneViewController.h"
+i"DetailBetController.h"
+
+N/Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneViewController.h
+c000000004C1E3B580000000000000210
+t1277049688
+s528
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m
+c000000004C1E3B580000000000000602
+t1277049688
+s1538
+i"crapsiphoneViewController.h"
+i"DetailBetController.h"
+
+N/Users/csilverstein/Sandbox/crapsiphone/MainWindow.xib
+c000000004C1E3B580000000000002678
+t1277049688
+s9848
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app
+t1277050254
+s306
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM
+t1277050254
+s102
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/DetailBet.nib
+t1277049688
+s3524
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/Info.plist
+t1277049688
+s678
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/MainWindow.nib
+t1277049688
+s1518
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/PkgInfo
+t1277049688
+s8
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/craps.gif
+t1277049688
+s10535
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+t1277050254
+s22656
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphoneViewController.nib
+t1277049688
+s9425
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o
+t1277049795
+s32696
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphone.LinkFileList
+c000000004C1E3BC20000000000000242
+t1277049794
+s578
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o
+t1277050254
+s39444
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o
+t1277049795
+s35232
+
+N/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o
+t1277049795
+s5952
+
+N/Users/csilverstein/Sandbox/crapsiphone/craps.gif
+c000000004C1E3B580000000000002927
+t1277049688
+s10535
+
+N/Users/csilverstein/Sandbox/crapsiphone/crapsiphoneViewController.xib
+c000000004C1E3B58000000000000DF25
+t1277049688
+s57125
+
+N/Users/csilverstein/Sandbox/crapsiphone/crapsiphone_Prefix.pch
+c000000004C1E3B5800000000000000BF
+t1277049688
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Sandbox/crapsiphone/main.m
+c000000004C1E3B580000000000000174
+t1277049688
+s372
+i<UIKit/UIKit.h>
+
+N/Users/gusm/Sandbox/crapsiphone/../../Downloads/craps.gif
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/DeatilBetController.h
+c000000004BAF726500000000000000E8
+t1269789285
+s232
+i<UIKit/UIKit.h>
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/DeatilBetController.m
+c000000004BAF7281000000000000025E
+t1269789313
+s606
+i"DeatilBetController.h"
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/DeatilBetController.xib
+c000000004BAF72650000000000001874
+t1269789285
+s6260
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/DetailBet.xib
+c000000004BB248040000000000006248
+t1269975044
+s25160
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/DetailBetController.h
+c000000004BAFFE990000000000000115
+t1269825177
+s277
+i<UIKit/UIKit.h>
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/DetailBetController.m
+c000000004BAFFEA7000000000000045B
+t1269825191
+s1115
+i"DetailBetController.h"
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.h
+c000000004BAF821A0000000000000296
+t1269793306
+s662
+i<UIKit/UIKit.h>
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m
+c000000004BAFA1F5000000000000034C
+t1269801461
+s844
+i"crapsiphoneAppDelegate.h"
+i"crapsiphoneViewController.h"
+i"DetailBetController.h"
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.h
+c000000004BAF86990000000000000210
+t1269794457
+s528
+i<UIKit/UIKit.h>
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m
+c000000004BAFFDC50000000000000602
+t1269824965
+s1538
+i"crapsiphoneViewController.h"
+i"DetailBetController.h"
+
+N/Users/gusm/Sandbox/crapsiphone/DetailBetController.h
+c000000004BAF732C00000000000000E8
+t1269789484
+s232
+i<UIKit/UIKit.h>
+
+N/Users/gusm/Sandbox/crapsiphone/DetailBetController.m
+c000000004BAF732C000000000000061B
+t1269789484
+s1563
+i"DetailBetController.h"
+
+N/Users/gusm/Sandbox/crapsiphone/MainWindow.xib
+c000000004BAED4310000000000002678
+t1269748785
+s9848
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app
+t1269826302
+s306
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM
+t1269825789
+s102
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/DeatilBetController.nib
+t2
+s0
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/DetailBet.nib
+t1269826302
+s3524
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/Info.plist
+t1269805414
+s678
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/MainWindow.nib
+t1269805414
+s1518
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/PkgInfo
+t1269805414
+s8
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/craps.gif
+t1269805414
+s10535
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+t1269825789
+s22592
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphoneViewController.nib
+t1269805415
+s9425
+
+N/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DeatilBetController.o
+t2
+s0
+
+N/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o
+t1269825789
+s32680
+
+N/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphone.LinkFileList
+c000000004BAFB1660000000000000222
+t1269805414
+s546
+
+N/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o
+t1269825789
+s39428
+
+N/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o
+t1269825789
+s35216
+
+N/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o
+t1269805415
+s5936
+
+N/Users/gusm/Sandbox/crapsiphone/craps.gif
+c000000004BAEC48F0000000000002927
+t1269744783
+s10535
+
+N/Users/gusm/Sandbox/crapsiphone/crapsiphoneViewController.xib
+c000000004BAF84D1000000000000DF25
+t1269794001
+s57125
+
+N/Users/gusm/Sandbox/crapsiphone/crapsiphone_Prefix.pch
+c000000004BAED43100000000000000BF
+t1269748785
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/gusm/Sandbox/crapsiphone/main.m
+c000000004BAED4310000000000000174
+t1269748785
+s372
+i<UIKit/UIKit.h>
+
+N/var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-bkknhbvkpoauqxekqhhbdkzrbfqf/crapsiphone_Prefix.pch.gch
+t1269748812
+s13026768
+
+N/var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/crapsiphone_Prefix-fmktgtubgrbauiabzjpvkvleccuq/crapsiphone_Prefix.pch.gch
+t1277049794
+s13026768
+
+N/var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-dbkoooufazerlrcdexxciscbaqef/crapsiphone_Prefix.pch.gch
+t1269805415
+s13026768
+
+Ncrapsiphone-Info.plist
+c000000004C1E3B580000000000000420
+t1277049688
+s1056
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298751606#298751606#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DeatilBetController.o /Users/gusm/Sandbox/crapsiphone/Classes/DeatilBetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o /Users/csilverstein/Sandbox/crapsiphone/Classes/DetailBetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298742595.104135
+e298742595.246082
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o
+x/Users/csilverstein/Sandbox/crapsiphone/Classes/DetailBetController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/csilverstein/Sandbox/crapsiphone/Classes/DetailBetController.m298742595#298742595#0(0"0(0#0#69"/Users/csilverstein/Sandbox/crapsiphone/Classes/DetailBetController.m4300911832#1988"    cd /Users/csilverstein/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/crapsiphone_Prefix-fmktgtubgrbauiabzjpvkvleccuq/crapsiphone_Prefix.pch -c /Users/csilverstein/Sandbox/crapsiphone/Classes/DetailBetController.m -o /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o /Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291498096.115755
+e291498096.122966
+r0
+xCompileC
+xbuild/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o
+x/Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@72"Compile /Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m291498096#291498096#0(366"i686-apple-darwin10-gcc-4.2.1: /Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1291498096#18446744073709551615#0#0(1@0"0(0#0#64"/Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m4300911832#1903"    cd /Users/gusm/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -include /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-dbkoooufazerlrcdexxciscbaqef/crapsiphone_Prefix.pch -c /Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m -o /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o1#
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o /Users/gusm/Sandbox/crapsiphone/Classes/DetailBetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291518589.606407
+e291518589.681681
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o
+x/Users/gusm/Sandbox/crapsiphone/Classes/DetailBetController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/gusm/Sandbox/crapsiphone/Classes/DetailBetController.m291518589#291518589#0(0"0(0#0#61"/Users/gusm/Sandbox/crapsiphone/Classes/DetailBetController.m4300911832#1900"    cd /Users/gusm/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -include /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-dbkoooufazerlrcdexxciscbaqef/crapsiphone_Prefix.pch -c /Users/gusm/Sandbox/crapsiphone/Classes/DetailBetController.m -o /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/DetailBetController.o /Users/gusm/Sandbox/crapsiphone/DetailBetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o /Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291442451.564222
+e291442452.025224
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o
+x/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m291442451#291442452#0(0"0(0#0#71"/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m4300911832#1983"    cd /Users/constantine/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -include /var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-bkknhbvkpoauqxekqhhbdkzrbfqf/crapsiphone_Prefix.pch -c /Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m -o /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o /Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298743054.350520
+e298743054.437199
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o
+x/Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m298743054#298743054#0(0"0(0#0#72"/Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m4300911832#1994"    cd /Users/csilverstein/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/crapsiphone_Prefix-fmktgtubgrbauiabzjpvkvleccuq/crapsiphone_Prefix.pch -c /Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m -o /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291518589.530632
+e291518589.620803
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o
+x/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m291518589#291518589#0(0"0(0#0#64"/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m4300911832#1906"    cd /Users/gusm/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -include /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-dbkoooufazerlrcdexxciscbaqef/crapsiphone_Prefix.pch -c /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m -o /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneAppDelegate.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o /Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291447988.447933
+e291447988.534459
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o
+x/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m291447988#291447988#0(0"0(0#0#74"/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m4300911832#1989"    cd /Users/constantine/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -include /var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-bkknhbvkpoauqxekqhhbdkzrbfqf/crapsiphone_Prefix.pch -c /Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m -o /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o /Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298742595.080303
+e298742595.206316
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o
+x/Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m298742595#298742595#0(0"0(0#0#75"/Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m4300911832#2000"    cd /Users/csilverstein/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/crapsiphone_Prefix-fmktgtubgrbauiabzjpvkvleccuq/crapsiphone_Prefix.pch -c /Users/csilverstein/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m -o /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291518589.531702
+e291518589.606296
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o
+x/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m291518589#291518589#0(0"0(0#0#67"/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m4300911832#1912"    cd /Users/gusm/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -include /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-dbkoooufazerlrcdexxciscbaqef/crapsiphone_Prefix.pch -c /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m -o /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphoneViewController.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o /Users/constantine/Sandbox/crapsiphone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291441612.730423
+e291441612.845500
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o
+x/Users/constantine/Sandbox/crapsiphone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/constantine/Sandbox/crapsiphone/main.m291441612#291441612#0(0"0(0#0#45"/Users/constantine/Sandbox/crapsiphone/main.m4300911832#1939"    cd /Users/constantine/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -include /var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-bkknhbvkpoauqxekqhhbdkzrbfqf/crapsiphone_Prefix.pch -c /Users/constantine/Sandbox/crapsiphone/main.m -o /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o /Users/csilverstein/Sandbox/crapsiphone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298742595.010970
+e298742595.080187
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o
+x/Users/csilverstein/Sandbox/crapsiphone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/csilverstein/Sandbox/crapsiphone/main.m298742595#298742595#0(0"0(0#0#46"/Users/csilverstein/Sandbox/crapsiphone/main.m4300911832#1950"    cd /Users/csilverstein/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/crapsiphone_Prefix-fmktgtubgrbauiabzjpvkvleccuq/crapsiphone_Prefix.pch -c /Users/csilverstein/Sandbox/crapsiphone/main.m -o /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o /Users/gusm/Sandbox/crapsiphone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291498215.809523
+e291498215.881550
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o
+x/Users/gusm/Sandbox/crapsiphone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/gusm/Sandbox/crapsiphone/main.m291498215#291498215#0(0"0(0#0#38"/Users/gusm/Sandbox/crapsiphone/main.m4300911832#1862"    cd /Users/gusm/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -include /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-dbkoooufazerlrcdexxciscbaqef/crapsiphone_Prefix.pch -c /Users/gusm/Sandbox/crapsiphone/main.m -o /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/constantine/Sandbox/crapsiphone/MainWindow.xib
+s291441611.576369
+e291441611.917430
+r1
+xCompileXIB
+x/Users/constantine/Sandbox/crapsiphone/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib291441611#291441611#0(0"0(0#0#53"/Users/constantine/Sandbox/crapsiphone/MainWindow.xib4300911832#486"    cd /Users/constantine/Sandbox/crapsiphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/MainWindow.nib /Users/constantine/Sandbox/crapsiphone/MainWindow.xib0#
+
+CCompileXIB /Users/constantine/Sandbox/crapsiphone/crapsiphoneViewController.xib
+s291449561.362856
+e291449561.901470
+r1
+xCompileXIB
+x/Users/constantine/Sandbox/crapsiphone/crapsiphoneViewController.xib
+lSLF07#2@40"CompileXIB crapsiphoneViewController.xib291449561#291449561#0(0"0(0#0#68"/Users/constantine/Sandbox/crapsiphone/crapsiphoneViewController.xib4300911832#516"    cd /Users/constantine/Sandbox/crapsiphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphoneViewController.nib /Users/constantine/Sandbox/crapsiphone/crapsiphoneViewController.xib0#
+
+CCompileXIB /Users/csilverstein/Sandbox/crapsiphone/Classes/DetailBet.xib
+r0
+
+CCompileXIB /Users/csilverstein/Sandbox/crapsiphone/MainWindow.xib
+r0
+
+CCompileXIB /Users/csilverstein/Sandbox/crapsiphone/crapsiphoneViewController.xib
+r0
+
+CCompileXIB /Users/gusm/Sandbox/crapsiphone/Classes/DeatilBetController.xib
+r0
+
+CCompileXIB /Users/gusm/Sandbox/crapsiphone/Classes/DetailBet.xib
+s291519102.294283
+e291519102.674852
+r1
+xCompileXIB
+x/Users/gusm/Sandbox/crapsiphone/Classes/DetailBet.xib
+lSLF07#2@32"CompileXIB Classes/DetailBet.xib291519102#291519102#0(0"0(0#0#53"/Users/gusm/Sandbox/crapsiphone/Classes/DetailBet.xib4300911832#471"    cd /Users/gusm/Sandbox/crapsiphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/DetailBet.nib /Users/gusm/Sandbox/crapsiphone/Classes/DetailBet.xib0#
+
+CCompileXIB /Users/gusm/Sandbox/crapsiphone/MainWindow.xib
+s291498214.331693
+e291498214.650261
+r1
+xCompileXIB
+x/Users/gusm/Sandbox/crapsiphone/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib291498214#291498214#0(0"0(0#0#46"/Users/gusm/Sandbox/crapsiphone/MainWindow.xib4300911832#465"    cd /Users/gusm/Sandbox/crapsiphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/MainWindow.nib /Users/gusm/Sandbox/crapsiphone/MainWindow.xib0#
+
+CCompileXIB /Users/gusm/Sandbox/crapsiphone/crapsiphoneViewController.xib
+s291498214.650358
+e291498215.098736
+r1
+xCompileXIB
+x/Users/gusm/Sandbox/crapsiphone/crapsiphoneViewController.xib
+lSLF07#2@40"CompileXIB crapsiphoneViewController.xib291498214#291498215#0(0"0(0#0#61"/Users/gusm/Sandbox/crapsiphone/crapsiphoneViewController.xib4300911832#495"    cd /Users/gusm/Sandbox/crapsiphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphoneViewController.nib /Users/gusm/Sandbox/crapsiphone/crapsiphoneViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/crapsiphone.app/craps.gif ../../Downloads/craps.gif
+s291452045.268368
+e291452045.283183
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/crapsiphone.app/craps.gif
+x../../Downloads/craps.gif
+opbxcp: craps.gif: No such file or directory
+lSLF07#2@30"Copy ../../Downloads/craps.gif291452045#291452045#0(44"pbxcp: craps.gif: No such file or directory1(4@43"pbxcp: craps.gif: No such file or directory291452045#18446744073709551615#0#0(6@0"291452045#0#0#0#0#0"0(0#0#57"/Users/gusm/Sandbox/crapsiphone/../../Downloads/craps.gif31244220637446252#452"    cd /Users/gusm/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/gusm/Sandbox/crapsiphone/../../Downloads/craps.gif /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app1#
+
+CCpResource build/Debug-iphonesimulator/crapsiphone.app/craps.gif craps.gif
+s291498214.332474
+e291498214.351115
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/crapsiphone.app/craps.gif
+xcraps.gif
+lSLF07#2@14"Copy craps.gif291498214#291498214#0(0"0(0#0#41"/Users/gusm/Sandbox/crapsiphone/craps.gif4300911832#436"    cd /Users/gusm/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/gusm/Sandbox/crapsiphone/craps.gif /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app0#
+
+CGenerateDSYMFile /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+s291447988.649191
+e291447988.666122
+r1
+xGenerateDSYMFile
+x/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM
+x/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/crapsiphone.app.dSYM build/Debug-iphonesimulator/crapsiphone.app/crapsiphone291447988#291447988#0(0"0(0#0#94"/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone4300911832#395"    cd /Users/constantine/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone -o /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM0#
+
+CGenerateDSYMFile /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+s298743054.459871
+e298743054.481963
+r1
+xGenerateDSYMFile
+x/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM
+x/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/crapsiphone.app.dSYM build/Debug-iphonesimulator/crapsiphone.app/crapsiphone298743054#298743054#0(0"0(0#0#95"/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone4300911832#398"    cd /Users/csilverstein/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone -o /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM0#
+
+CGenerateDSYMFile /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+s291518589.704908
+e291518589.724598
+r1
+xGenerateDSYMFile
+x/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM
+x/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/crapsiphone.app.dSYM build/Debug-iphonesimulator/crapsiphone.app/crapsiphone291518589#291518589#0(0"0(0#0#87"/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone4300911832#374"    cd /Users/gusm/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone -o /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app.dSYM0#
+
+CLd /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone normal i386
+s291447988.534634
+e291447988.649077
+r1
+xLd
+x/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+xnormal
+xi386
+lSLF07#2@99"Link /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone291447988#291447988#0(0"0(0#0#0"4300911832#884"    cd /Users/constantine/Sandbox/crapsiphone    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator -F/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator -filelist /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphone.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone0#
+
+CLd /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone normal i386
+s298743054.437300
+e298743054.459759
+r1
+xLd
+x/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+xnormal
+xi386
+lSLF07#2@100"Link /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone298743054#298743054#0(0"0(0#0#0"4300911832#889"    cd /Users/csilverstein/Sandbox/crapsiphone    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator -F/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator -filelist /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphone.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone0#
+
+CLd /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone normal i386
+s291518589.681780
+e291518589.704811
+r1
+xLd
+x/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone
+xnormal
+xi386
+lSLF07#2@92"Link /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone291518589#291518589#0(0"0(0#0#0"4300911832#849"    cd /Users/gusm/Sandbox/crapsiphone    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator -filelist /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/Objects-normal/i386/crapsiphone.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/crapsiphone0#
+
+CProcessInfoPlistFile /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/Info.plist crapsiphone-Info.plist
+s291450527.488362
+e291450527.492084
+r1
+xProcessInfoPlistFile
+x/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/Info.plist
+xcrapsiphone-Info.plist
+lSLF07#2@30"Process crapsiphone-Info.plist291450527#291450527#0(0"0(0#0#61"/Users/constantine/Sandbox/crapsiphone/crapsiphone-Info.plist4300911832#491"    cd /Users/constantine/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility crapsiphone-Info.plist -genpkginfo /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/Info.plist crapsiphone-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/Info.plist crapsiphone-Info.plist
+s291498214.319793
+e291498214.331591
+r1
+xProcessInfoPlistFile
+x/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/Info.plist
+xcrapsiphone-Info.plist
+lSLF07#2@30"Process crapsiphone-Info.plist291498214#291498214#0(0"0(0#0#54"/Users/gusm/Sandbox/crapsiphone/crapsiphone-Info.plist32370056120631408#470"    cd /Users/gusm/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility crapsiphone-Info.plist -genpkginfo /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app/Info.plist0#
+
+CProcessPCH /var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-bkknhbvkpoauqxekqhhbdkzrbfqf/crapsiphone_Prefix.pch.gch crapsiphone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291441611.940858
+e291441612.730305
+r1
+xProcessPCH
+x/var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-bkknhbvkpoauqxekqhhbdkzrbfqf/crapsiphone_Prefix.pch.gch
+xcrapsiphone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile crapsiphone_Prefix.pch291441611#291441612#0(0"0(0#0#61"/Users/constantine/Sandbox/crapsiphone/crapsiphone_Prefix.pch4300911832#1827"    cd /Users/constantine/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -c /Users/constantine/Sandbox/crapsiphone/crapsiphone_Prefix.pch -o /var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-bkknhbvkpoauqxekqhhbdkzrbfqf/crapsiphone_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/crapsiphone_Prefix-fmktgtubgrbauiabzjpvkvleccuq/crapsiphone_Prefix.pch.gch crapsiphone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298742594.244102
+e298742595.010840
+r1
+xProcessPCH
+x/var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/crapsiphone_Prefix-fmktgtubgrbauiabzjpvkvleccuq/crapsiphone_Prefix.pch.gch
+xcrapsiphone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile crapsiphone_Prefix.pch298742594#298742595#0(0"0(0#0#62"/Users/csilverstein/Sandbox/crapsiphone/crapsiphone_Prefix.pch8242483915905131520#1837"    cd /Users/csilverstein/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/csilverstein/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -c /Users/csilverstein/Sandbox/crapsiphone/crapsiphone_Prefix.pch -o /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/crapsiphone_Prefix-fmktgtubgrbauiabzjpvkvleccuq/crapsiphone_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-dbkoooufazerlrcdexxciscbaqef/crapsiphone_Prefix.pch.gch crapsiphone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291498215.098986
+e291498215.809419
+r1
+xProcessPCH
+x/var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-dbkoooufazerlrcdexxciscbaqef/crapsiphone_Prefix.pch.gch
+xcrapsiphone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile crapsiphone_Prefix.pch291498215#291498215#0(0"0(0#0#54"/Users/gusm/Sandbox/crapsiphone/crapsiphone_Prefix.pch4300911832#1757"    cd /Users/gusm/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator -I/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/include -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources/i386 -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphonesimulator/crapsiphone.build/DerivedSources -c /Users/gusm/Sandbox/crapsiphone/crapsiphone_Prefix.pch -o /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-dbkoooufazerlrcdexxciscbaqef/crapsiphone_Prefix.pch.gch0#
+
+CTouch /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app
+s291450527.493358
+e291450527.496972
+r1
+xTouch
+x/Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app
+lSLF07#2@88"Touch /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app291450527#291450527#0(0"0(0#0#0"4300911832#282"    cd /Users/constantine/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/constantine/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app0#
+
+CTouch /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app
+s298743054.482062
+e298743054.485358
+r1
+xTouch
+x/Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app
+lSLF07#2@89"Touch /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app298743054#298743054#0(0"0(0#0#0"4300911832#284"    cd /Users/csilverstein/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/csilverstein/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app0#
+
+CTouch /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app
+s291519102.675491
+e291519102.678033
+r1
+xTouch
+x/Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app
+lSLF07#2@81"Touch /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app291519102#291519102#0(0"0(0#0#0"4300911832#268"    cd /Users/gusm/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/gusm/Sandbox/crapsiphone/build/Debug-iphonesimulator/crapsiphone.app0#
+

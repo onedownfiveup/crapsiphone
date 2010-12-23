@@ -1,0 +1,228 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* crapsiphoneAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 407}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 510}";
+		};
+	};
+	1D3623250D0F684500981E51 /* crapsiphoneAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 468}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 695}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* crapsiphone */ = {
+		activeExec = 0;
+		executables = (
+			ADFA46E8115F0BB100EC089E /* crapsiphone */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* crapsiphoneViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 407}}";
+			sepNavSelRange = "{329, 0}";
+			sepNavVisRange = "{0, 375}";
+			sepNavWindowFrame = "{{220, 55}, {1060, 722}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* crapsiphoneViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 975}}";
+			sepNavSelRange = "{307, 0}";
+			sepNavVisRange = "{0, 827}";
+			sepNavWindowFrame = "{{15, 51}, {1060, 722}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ADFA46E8115F0BB100EC089E /* crapsiphone */;
+		activeSDKPreference = iphoneos3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* crapsiphone */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* crapsiphone */,
+		);
+		codeSenseManager = ADFA46F3115F0BBB00EC089E /* Code sense */;
+		executables = (
+			ADFA46E8115F0BB100EC089E /* crapsiphone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291451379;
+			PBXWorkspaceStateSaveDate = 291451379;
+		};
+		perUserProjectItems = {
+			AD209D2E115F2F8600B6BE3B = AD209D2E115F2F8600B6BE3B /* PBXTextBookmark */;
+			AD209D2F115F2F8600B6BE3B = AD209D2F115F2F8600B6BE3B /* PBXTextBookmark */;
+			AD209D30115F2F8600B6BE3B = AD209D30115F2F8600B6BE3B /* PBXTextBookmark */;
+			AD3D7975115F320B00E94426 /* PBXTextBookmark */ = AD3D7975115F320B00E94426 /* PBXTextBookmark */;
+			AD3D7976115F320B00E94426 /* PBXTextBookmark */ = AD3D7976115F320B00E94426 /* PBXTextBookmark */;
+			AD8E4D5C115F2F9D0025AE03 = AD8E4D5C115F2F9D0025AE03 /* PBXTextBookmark */;
+			AD8E4D66115F30990025AE03 = AD8E4D66115F30990025AE03 /* PBXTextBookmark */;
+			ADFA47BE115F2B6900EC089E = ADFA47BE115F2B6900EC089E /* PBXBookmark */;
+		};
+		sourceControlManager = ADFA46F2115F0BBB00EC089E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* crapsiphone_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1001, 594}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 191}";
+			sepNavWindowFrame = "{{15, 51}, {1060, 722}}";
+		};
+	};
+	8D1107310486CEB800E47090 /* crapsiphone-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 51}, {1060, 722}}";
+		};
+	};
+	AD209D2E115F2F8600B6BE3B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* crapsiphoneAppDelegate.h */;
+		name = "crapsiphoneAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 510;
+		vrLoc = 0;
+	};
+	AD209D2F115F2F8600B6BE3B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* crapsiphoneAppDelegate.m */;
+		name = "crapsiphoneAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 695;
+		vrLoc = 0;
+	};
+	AD209D30115F2F8600B6BE3B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* crapsiphoneViewController.h */;
+		name = "crapsiphoneViewController.h: 14";
+		rLen = 0;
+		rLoc = 329;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 0;
+	};
+	AD3D7975115F320B00E94426 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* crapsiphoneViewController.m */;
+		name = "crapsiphoneViewController.m: 14";
+		rLen = 0;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 827;
+		vrLoc = 0;
+	};
+	AD3D7976115F320B00E94426 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* crapsiphoneViewController.m */;
+		name = "crapsiphoneViewController.m: 14";
+		rLen = 0;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 827;
+		vrLoc = 0;
+	};
+	AD8E4D5C115F2F9D0025AE03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* crapsiphoneViewController.m */;
+		name = "crapsiphoneViewController.m: 14";
+		rLen = 0;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 827;
+		vrLoc = 0;
+	};
+	AD8E4D66115F30990025AE03 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* crapsiphoneViewController.m */;
+		name = "crapsiphoneViewController.m: 14";
+		rLen = 0;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 827;
+		vrLoc = 0;
+	};
+	ADFA46E8115F0BB100EC089E /* crapsiphone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = crapsiphone;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+	};
+	ADFA46F2115F0BBB00EC089E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ADFA46F3115F0BBB00EC089E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ADFA4759115F179400EC089E /* craps.gif */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 51}, {1060, 722}}";
+		};
+	};
+	ADFA47BE115F2B6900EC089E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = ADFA4759115F179400EC089E /* craps.gif */;
+	};
+}

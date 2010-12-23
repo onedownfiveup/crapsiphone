@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'crapsiphone' target in the 'crapsiphone' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

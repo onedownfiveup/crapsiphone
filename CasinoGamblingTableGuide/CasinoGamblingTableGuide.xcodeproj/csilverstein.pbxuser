@@ -1,0 +1,542 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CasinoGamblingTableGuideAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 572}}";
+			sepNavSelRange = "{1118, 0}";
+			sepNavVisRange = "{201, 920}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CasinoGamblingTableGuideAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 858}}";
+			sepNavSelRange = "{1219, 0}";
+			sepNavVisRange = "{756, 643}";
+			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CasinoGamblingTableGuide */ = {
+		activeExec = 0;
+		executables = (
+			5D50A64311CEA1B500812B02 /* CasinoGamblingTableGuide */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5D50A64311CEA1B500812B02 /* CasinoGamblingTableGuide */;
+		activeSDKPreference = iphonesimulator3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CasinoGamblingTableGuide */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CasinoGamblingTableGuide */,
+		);
+		breakpoints = (
+			5D50A73911CECB5C00812B02 /* CrapsTableView.h:22 */,
+		);
+		codeSenseManager = 5D50A64E11CEA1D400812B02 /* Code sense */;
+		executables = (
+			5D50A64311CEA1B500812B02 /* CasinoGamblingTableGuide */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					409,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 298776881;
+			PBXWorkspaceStateSaveDate = 298776881;
+		};
+		perUserProjectItems = {
+			5D0A941C11CEF937004C1517 /* PBXTextBookmark */ = 5D0A941C11CEF937004C1517 /* PBXTextBookmark */;
+			5D0A941F11CEF937004C1517 /* PBXTextBookmark */ = 5D0A941F11CEF937004C1517 /* PBXTextBookmark */;
+			5D0A942011CEF937004C1517 /* PBXTextBookmark */ = 5D0A942011CEF937004C1517 /* PBXTextBookmark */;
+			5D0A942111CEF937004C1517 /* PBXTextBookmark */ = 5D0A942111CEF937004C1517 /* PBXTextBookmark */;
+			5D0A942211CEF937004C1517 /* PBXTextBookmark */ = 5D0A942211CEF937004C1517 /* PBXTextBookmark */;
+			5D0A942311CEF937004C1517 /* PBXTextBookmark */ = 5D0A942311CEF937004C1517 /* PBXTextBookmark */;
+			5D0A942411CEF937004C1517 /* PBXTextBookmark */ = 5D0A942411CEF937004C1517 /* PBXTextBookmark */;
+			5D0A942511CEF937004C1517 /* PBXTextBookmark */ = 5D0A942511CEF937004C1517 /* PBXTextBookmark */;
+			5D0A942611CEF937004C1517 /* PBXTextBookmark */ = 5D0A942611CEF937004C1517 /* PBXTextBookmark */;
+			5D50A7C511CED8E800812B02 = 5D50A7C511CED8E800812B02 /* PBXTextBookmark */;
+			5D50A7C611CED8E800812B02 = 5D50A7C611CED8E800812B02 /* PBXTextBookmark */;
+			5D50A84F11CEDDF300812B02 = 5D50A84F11CEDDF300812B02 /* PBXTextBookmark */;
+			5D50A8A211CEE46D00812B02 = 5D50A8A211CEE46D00812B02 /* PBXTextBookmark */;
+			5D50A8D411CEE78600812B02 = 5D50A8D411CEE78600812B02 /* PBXBookmark */;
+			5D50A8D511CEE78C00812B02 = 5D50A8D511CEE78C00812B02 /* PBXBookmark */;
+			5D50A90B11CEE94F00812B02 = 5D50A90B11CEE94F00812B02 /* PBXTextBookmark */;
+			5D50A90E11CEE94F00812B02 = 5D50A90E11CEE94F00812B02 /* PBXTextBookmark */;
+			5D50A91011CEE94F00812B02 = 5D50A91011CEE94F00812B02 /* PBXTextBookmark */;
+			5D50A91411CEE94F00812B02 = 5D50A91411CEE94F00812B02 /* PBXTextBookmark */;
+			5D50A91F11CEE9AA00812B02 = 5D50A91F11CEE9AA00812B02 /* PBXTextBookmark */;
+			5D50A92111CEE9AA00812B02 = 5D50A92111CEE9AA00812B02 /* PBXTextBookmark */;
+			5D50A94111CEEAAF00812B02 = 5D50A94111CEEAAF00812B02 /* PBXTextBookmark */;
+			5D50A94211CEEAAF00812B02 = 5D50A94211CEEAAF00812B02 /* PBXTextBookmark */;
+			5D50A94411CEEAAF00812B02 = 5D50A94411CEEAAF00812B02 /* PBXTextBookmark */;
+			5D50A94611CEEAAF00812B02 = 5D50A94611CEEAAF00812B02 /* PBXTextBookmark */;
+			5D50A96311CEF90800812B02 = 5D50A96311CEF90800812B02 /* PBXTextBookmark */;
+			5D50A96411CEF90800812B02 = 5D50A96411CEF90800812B02 /* PBXTextBookmark */;
+			5D50A96511CEF90800812B02 = 5D50A96511CEF90800812B02 /* PBXTextBookmark */;
+			5D50A96611CEF90800812B02 = 5D50A96611CEF90800812B02 /* PBXTextBookmark */;
+			5D50A96711CEF90800812B02 = 5D50A96711CEF90800812B02 /* PBXTextBookmark */;
+			5D50A96811CEF90800812B02 = 5D50A96811CEF90800812B02 /* PBXTextBookmark */;
+			5D50A96911CEF90800812B02 = 5D50A96911CEF90800812B02 /* PBXTextBookmark */;
+			5D50A96A11CEF90800812B02 = 5D50A96A11CEF90800812B02 /* PBXTextBookmark */;
+			5D50A96B11CEF90800812B02 = 5D50A96B11CEF90800812B02 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5D50A64D11CEA1D400812B02 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5D0A941C11CEF937004C1517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A79811CED16D00812B02 /* CrapsPlayDetails.m */;
+		name = "CrapsPlayDetails.m: 23";
+		rLen = 0;
+		rLoc = 513;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 191;
+	};
+	5D0A941F11CEF937004C1517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A79711CED16D00812B02 /* CrapsPlayDetails.h */;
+		name = "CrapsPlayDetails.h: 17";
+		rLen = 0;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 0;
+	};
+	5D0A942011CEF937004C1517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A79811CED16D00812B02 /* CrapsPlayDetails.m */;
+		name = "CrapsPlayDetails.m: 15";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 829;
+		vrLoc = 162;
+	};
+	5D0A942111CEF937004C1517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CasinoGamblingTableGuideAppDelegate.m */;
+		name = "CasinoGamblingTableGuideAppDelegate.m: 58";
+		rLen = 0;
+		rLoc = 1219;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 756;
+	};
+	5D0A942211CEF937004C1517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CasinoGamblingTableGuideAppDelegate.h */;
+		name = "CasinoGamblingTableGuideAppDelegate.h: 39";
+		rLen = 0;
+		rLoc = 1118;
+		rType = 0;
+		vrLen = 920;
+		vrLoc = 201;
+	};
+	5D0A942311CEF937004C1517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A68711CEBACC00812B02 /* CrapsTableView.h */;
+		name = "CrapsTableView.h: 19";
+		rLen = 37;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 550;
+		vrLoc = 0;
+	};
+	5D0A942411CEF937004C1517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A68811CEBACC00812B02 /* CrapsTableView.m */;
+		name = "CrapsTableView.m: 18";
+		rLen = 0;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 754;
+		vrLoc = 187;
+	};
+	5D0A942511CEF937004C1517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A70011CEC51D00812B02 /* CrapsTableGuideNavController.h */;
+		name = "CrapsTableGuideNavController.h: 12";
+		rLen = 0;
+		rLoc = 188;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	5D0A942611CEF937004C1517 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A70111CEC51D00812B02 /* CrapsTableGuideNavController.m */;
+		name = "CrapsTableGuideNavController.m: 22";
+		rLen = 0;
+		rLoc = 575;
+		rType = 0;
+		vrLen = 780;
+		vrLoc = 576;
+	};
+	5D50A64311CEA1B500812B02 /* CasinoGamblingTableGuide */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CasinoGamblingTableGuide;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5D50A64D11CEA1D400812B02 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5D50A64E11CEA1D400812B02 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5D50A68711CEBACC00812B02 /* CrapsTableView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 407}}";
+			sepNavSelRange = "{347, 37}";
+			sepNavVisRange = "{0, 550}";
+			sepNavWindowFrame = "{{84, 152}, {750, 558}}";
+		};
+	};
+	5D50A68811CEBACC00812B02 /* CrapsTableView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 884}}";
+			sepNavSelRange = "{286, 0}";
+			sepNavVisRange = "{187, 754}";
+			sepNavWindowFrame = "{{61, 173}, {750, 558}}";
+		};
+	};
+	5D50A70011CEC51D00812B02 /* CrapsTableGuideNavController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 407}}";
+			sepNavSelRange = "{188, 0}";
+			sepNavVisRange = "{0, 263}";
+			sepNavWindowFrame = "{{153, 89}, {750, 558}}";
+		};
+	};
+	5D50A70111CEC51D00812B02 /* CrapsTableGuideNavController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 728}}";
+			sepNavSelRange = "{575, 0}";
+			sepNavVisRange = "{576, 780}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	5D50A73911CECB5C00812B02 /* CrapsTableView.h:22 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5D50A68711CEBACC00812B02 /* CrapsTableView.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 22;
+		modificationTime = 298765278.102742;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	5D50A79711CED16D00812B02 /* CrapsPlayDetails.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 407}}";
+			sepNavSelRange = "{289, 0}";
+			sepNavVisRange = "{0, 407}";
+			sepNavWindowFrame = "{{56, 160}, {750, 558}}";
+		};
+	};
+	5D50A79811CED16D00812B02 /* CrapsPlayDetails.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1053}}";
+			sepNavSelRange = "{251, 0}";
+			sepNavVisRange = "{162, 829}";
+			sepNavWindowFrame = "{{266, 88}, {750, 558}}";
+		};
+	};
+	5D50A7C511CED8E800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A70011CEC51D00812B02 /* CrapsTableGuideNavController.h */;
+		name = "CrapsTableGuideNavController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	5D50A7C611CED8E800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A70111CEC51D00812B02 /* CrapsTableGuideNavController.m */;
+		name = "CrapsTableGuideNavController.m: 9";
+		rLen = 0;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 518;
+		vrLoc = 843;
+	};
+	5D50A84F11CEDDF300812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CasinoGamblingTableGuideAppDelegate.h */;
+		name = "CasinoGamblingTableGuideAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 483;
+		vrLoc = 0;
+	};
+	5D50A8A211CEE46D00812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A79711CED16D00812B02 /* CrapsPlayDetails.h */;
+		name = "CrapsPlayDetails.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 397;
+		vrLoc = 0;
+	};
+	5D50A8D411CEE78600812B02 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5D50A70111CEC51D00812B02 /* CrapsTableGuideNavController.m */;
+	};
+	5D50A8D511CEE78C00812B02 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5D50A70011CEC51D00812B02 /* CrapsTableGuideNavController.h */;
+	};
+	5D50A90B11CEE94F00812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A68711CEBACC00812B02 /* CrapsTableView.h */;
+		name = "CrapsTableView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 550;
+		vrLoc = 0;
+	};
+	5D50A90E11CEE94F00812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CasinoGamblingTableGuideAppDelegate.h */;
+		name = "CasinoGamblingTableGuideAppDelegate.h: 28";
+		rLen = 84;
+		rLoc = 622;
+		rType = 0;
+		vrLen = 969;
+		vrLoc = 74;
+	};
+	5D50A91011CEE94F00812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A68711CEBACC00812B02 /* CrapsTableView.h */;
+		name = "CrapsTableView.h: 21";
+		rLen = 0;
+		rLoc = 543;
+		rType = 0;
+		vrLen = 550;
+		vrLoc = 0;
+	};
+	5D50A91411CEE94F00812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A68811CEBACC00812B02 /* CrapsTableView.m */;
+		name = "CrapsTableView.m: 24";
+		rLen = 0;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 730;
+		vrLoc = 0;
+	};
+	5D50A91F11CEE9AA00812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A68811CEBACC00812B02 /* CrapsTableView.m */;
+		name = "CrapsTableView.m: 18";
+		rLen = 0;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 570;
+		vrLoc = 105;
+	};
+	5D50A92111CEE9AA00812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CasinoGamblingTableGuideAppDelegate.m */;
+		name = "CasinoGamblingTableGuideAppDelegate.m: 66";
+		rLen = 0;
+		rLoc = 1216;
+		rType = 0;
+		vrLen = 569;
+		vrLoc = 836;
+	};
+	5D50A94111CEEAAF00812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CasinoGamblingTableGuideAppDelegate.m */;
+		name = "CasinoGamblingTableGuideAppDelegate.m: 16";
+		rLen = 0;
+		rLoc = 327;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 306;
+	};
+	5D50A94211CEEAAF00812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A79811CED16D00812B02 /* CrapsPlayDetails.m */;
+		name = "CrapsPlayDetails.m: 23";
+		rLen = 0;
+		rLoc = 513;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 191;
+	};
+	5D50A94411CEEAAF00812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A79711CED16D00812B02 /* CrapsPlayDetails.h */;
+		name = "CrapsPlayDetails.h: 17";
+		rLen = 0;
+		rLoc = 340;
+		rType = 0;
+		vrLen = 403;
+		vrLoc = 0;
+	};
+	5D50A94611CEEAAF00812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A79811CED16D00812B02 /* CrapsPlayDetails.m */;
+		name = "CrapsPlayDetails.m: 20";
+		rLen = 234;
+		rLoc = 318;
+		rType = 0;
+		vrLen = 817;
+		vrLoc = 162;
+	};
+	5D50A96311CEF90800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A79811CED16D00812B02 /* CrapsPlayDetails.m */;
+		name = "CrapsPlayDetails.m: 23";
+		rLen = 0;
+		rLoc = 513;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 191;
+	};
+	5D50A96411CEF90800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A79711CED16D00812B02 /* CrapsPlayDetails.h */;
+		name = "CrapsPlayDetails.h: 17";
+		rLen = 0;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 0;
+	};
+	5D50A96511CEF90800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A79811CED16D00812B02 /* CrapsPlayDetails.m */;
+		name = "CrapsPlayDetails.m: 15";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 920;
+		vrLoc = 162;
+	};
+	5D50A96611CEF90800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CasinoGamblingTableGuideAppDelegate.m */;
+		name = "CasinoGamblingTableGuideAppDelegate.m: 58";
+		rLen = 0;
+		rLoc = 1219;
+		rType = 0;
+		vrLen = 649;
+		vrLoc = 756;
+	};
+	5D50A96711CEF90800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CasinoGamblingTableGuideAppDelegate.h */;
+		name = "CasinoGamblingTableGuideAppDelegate.h: 39";
+		rLen = 0;
+		rLoc = 1118;
+		rType = 0;
+		vrLen = 899;
+		vrLoc = 228;
+	};
+	5D50A96811CEF90800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A68711CEBACC00812B02 /* CrapsTableView.h */;
+		name = "CrapsTableView.h: 19";
+		rLen = 37;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 550;
+		vrLoc = 0;
+	};
+	5D50A96911CEF90800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A68811CEBACC00812B02 /* CrapsTableView.m */;
+		name = "CrapsTableView.m: 18";
+		rLen = 0;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 758;
+		vrLoc = 187;
+	};
+	5D50A96A11CEF90800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A70011CEC51D00812B02 /* CrapsTableGuideNavController.h */;
+		name = "CrapsTableGuideNavController.h: 12";
+		rLen = 0;
+		rLoc = 188;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	5D50A96B11CEF90800812B02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D50A70111CEC51D00812B02 /* CrapsTableGuideNavController.m */;
+		name = "CrapsTableGuideNavController.m: 22";
+		rLen = 0;
+		rLoc = 575;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 576;
+	};
+}

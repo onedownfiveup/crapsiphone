@@ -1,0 +1,612 @@
+TCasinoGamblingTableGuide
+v7
+r0
+t298776886.297787
+cCheck dependencies
+cProcessInfoPlistFile /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/Info.plist CasinoGamblingTableGuide-Info.plist
+cCompileXIB /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/Crapslayout.png Crapslayout.png
+cProcessPCH /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-aaevqjcjoyqojmagminwfnowlmup/CasinoGamblingTableGuide_Prefix.pch.gch CasinoGamblingTableGuide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/main.o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuideAppDelegate.o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableView.o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideNavController.o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsPlayDetails.o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide normal i386
+cGenerateDSYMFile /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app.dSYM /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide
+cTouch /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/CasinoGamblingTableGuide_Prefix.pch
+c000000004C1E6A3500000000000000D9
+t1277061685
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m
+c000000004C1EB32E0000000000000798
+t1277080366
+s1944
+i"CrapsPlayDetails.h"
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.h
+c000000004C1EB1CD0000000000000467
+t1277080013
+s1127
+i<UIKit/UIKit.h>
+i"CrapsTableView.h"
+i"CrapsPlayDetails.h"
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m
+c000000004C1EB2ED000000000000057D
+t1277080301
+s1405
+i"CasinoGamblingTableGuideAppDelegate.h"
+i"CrapsTableView.h"
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.h
+c000000004C1E8FC30000000000000107
+t1277071299
+s263
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m
+c000000004C1E8FC30000000000000551
+t1277071299
+s1361
+i"CrapsTableGuideNavController.h"
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideViewController.h
+c000000004C1E8F4C0000000000000108
+t1277071180
+s264
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideViewController.m
+c000000004C1E8EF60000000000000553
+t1277071094
+s1363
+i"CrapsTableGuideViewController.h"
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.h
+c000000004C1EA6720000000000000226
+t1277077106
+s550
+i<UIKit/UIKit.h>
+i"CrapsPlayDetails.h"
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.m
+c000000004C1EB1CD000000000000060D
+t1277080013
+s1549
+i"CrapsTableView.h"
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/CrapsPlayDetails.h
+c000000004C1EB2ED0000000000000197
+t1277080301
+s407
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/CrapsPlayDetails.m
+c000000004C1E99ED0000000000000622
+t1277073901
+s1570
+i"CrapsPlayDetails.h"
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/Crapslayout.png
+c000000004C1D80BA000000000002D0C5
+t1277001914
+s184517
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/MainWindow.xib
+c000000004C1EC1480000000000013FD4
+t1277083976
+s81876
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuide.LinkFileList
+c000000004C1E9CF400000000000003A9
+t1277074676
+s937
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuideAppDelegate.o
+t1277080301
+s48124
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsPlayDetails.o
+t1277080367
+s34664
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideNavController.o
+t1277071300
+s29940
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideViewController.o
+t1277071180
+s29956
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableView.o
+t1277080301
+s37332
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/main.o
+t1277062830
+s5980
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app
+t1277083984
+s238
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app.dSYM
+t1277080367
+s102
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide
+t1277080367
+s24672
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/Crapslayout.png
+t1277068699
+s184517
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/Info.plist
+t1277062828
+s667
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/MainWindow.nib
+t1277083984
+s12643
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/PkgInfo
+t1277062828
+s8
+
+N/Users/csilverstein/Documents/CasinoGamblingTableGuide/main.m
+c000000004C1E6A350000000000000177
+t1277061685
+s375
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/CasinoGamblingTableGuide_Prefix.pch
+c000000004C1E6A3500000000000000D9
+t1277061685
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.h
+c000000004C1EB2ED0000000000000197
+t1277080301
+s407
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m
+c000000004C1EB32E0000000000000798
+t1277080366
+s1944
+i"CrapsPlayDetails.h"
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.h
+c000000004C1EB1CD0000000000000467
+t1277080013
+s1127
+i<UIKit/UIKit.h>
+i"CrapsTableView.h"
+i"CrapsPlayDetails.h"
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m
+c000000004C1EB2ED000000000000057D
+t1277080301
+s1405
+i"CasinoGamblingTableGuideAppDelegate.h"
+i"CrapsTableView.h"
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.h
+c000000004C1E8FC30000000000000107
+t1277071299
+s263
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m
+c000000004C1E8FC30000000000000551
+t1277071299
+s1361
+i"CrapsTableGuideNavController.h"
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.h
+c000000004C1EA6720000000000000226
+t1277077106
+s550
+i<UIKit/UIKit.h>
+i"CrapsPlayDetails.h"
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m
+c000000004C1EB1CD000000000000060D
+t1277080013
+s1549
+i"CrapsTableView.h"
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/CrapsPlayDetails.h
+c000000004C1EB2ED0000000000000197
+t1277080301
+s407
+i<UIKit/UIKit.h>
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Crapslayout.png
+c000000004C1D80BA000000000002D0C5
+t1277001914
+s184517
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/MainWindow.xib
+c000000004C1EC1480000000000013FD4
+t1277083976
+s81876
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuide.LinkFileList
+c000000004C1EC1B5000000000000039F
+t1277084085
+s927
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuideAppDelegate.o
+t1277084086
+s48116
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsPlayDetails.o
+t1277084086
+s34660
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideNavController.o
+t1277084086
+s29936
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableView.o
+t1277084086
+s37324
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/main.o
+t1277084086
+s5976
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app
+t1277084086
+s238
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app.dSYM
+t1277084086
+s102
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide
+t1277084086
+s24652
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/Crapslayout.png
+t1277068699
+s184517
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/Info.plist
+t1277062828
+s667
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/MainWindow.nib
+t1277083984
+s12643
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/PkgInfo
+t1277062828
+s8
+
+N/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/main.m
+c000000004C1E6A350000000000000177
+t1277061685
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-aaevqjcjoyqojmagminwfnowlmup/CasinoGamblingTableGuide_Prefix.pch.gch
+t1277084085
+s13026768
+
+N/var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-gilzeheutozxhwbsautixxokubwq/CasinoGamblingTableGuide_Prefix.pch.gch
+t1277062829
+s13026768
+
+NCasinoGamblingTableGuide-Info.plist
+c000000004C1E6A35000000000000038D
+t1277061685
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298776884#298776885#0(0"0(0#1#0"7956017078301914112#0"0#
+
+CCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuideAppDelegate.o /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298773101.561198
+e298773101.732929
+r1
+xCompileC
+xbuild/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuideAppDelegate.o
+x/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m298773101#298773101#0(0"0(0#0#100"/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m4300911832#2445"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-gilzeheutozxhwbsautixxokubwq/CasinoGamblingTableGuide_Prefix.pch -c /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m -o /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuideAppDelegate.o0#
+
+CCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuideAppDelegate.o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298776885.940832
+e298776886.100652
+r1
+xCompileC
+xbuild/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuideAppDelegate.o
+x/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m298776885#298776886#0(0"0(0#0#98"/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m4300911832#2423"    cd /Users/csilverstein/Sandbox/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-aaevqjcjoyqojmagminwfnowlmup/CasinoGamblingTableGuide_Prefix.pch -c /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CasinoGamblingTableGuideAppDelegate.m -o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuideAppDelegate.o0#
+
+CCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsPlayDetails.o /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298773166.843711
+e298773167.061842
+r1
+xCompileC
+xbuild/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsPlayDetails.o
+x/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m298773166#298773167#0(0"0(0#0#84"/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m4300911832#2410"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-gilzeheutozxhwbsautixxokubwq/CasinoGamblingTableGuide_Prefix.pch -c /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m -o /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsPlayDetails.o0#
+
+CCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsPlayDetails.o /Users/csilverstein/Documents/CasinoGamblingTableGuide/CrapsPlayDetails.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsPlayDetails.o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298776886.151218
+e298776886.221745
+r1
+xCompileC
+xbuild/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsPlayDetails.o
+x/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m298776886#298776886#0(0"0(0#0#82"/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m3415246296532346368#2388"    cd /Users/csilverstein/Sandbox/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-aaevqjcjoyqojmagminwfnowlmup/CasinoGamblingTableGuide_Prefix.pch -c /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/../CrapsPlayDetails.m -o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsPlayDetails.o0#
+
+CCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideNavController.o /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298764099.851300
+e298764100.046296
+r1
+xCompileC
+xbuild/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideNavController.o
+x/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m298764099#298764100#0(0"0(0#0#93"/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m4300911832#2431"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-gilzeheutozxhwbsautixxokubwq/CasinoGamblingTableGuide_Prefix.pch -c /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m -o /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideNavController.o0#
+
+CCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideNavController.o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298776886.101089
+e298776886.181993
+r1
+xCompileC
+xbuild/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideNavController.o
+x/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m298776886#298776886#0(0"0(0#0#91"/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m4300911832#2409"    cd /Users/csilverstein/Sandbox/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-aaevqjcjoyqojmagminwfnowlmup/CasinoGamblingTableGuide_Prefix.pch -c /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableGuideNavController.m -o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideNavController.o0#
+
+CCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideViewController.o /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298763980.390232
+e298763980.466980
+r1
+xCompileC
+xbuild/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideViewController.o
+x/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideViewController.m298763980#298763980#0(0"0(0#0#94"/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideViewController.m4300911832#2433"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-gilzeheutozxhwbsautixxokubwq/CasinoGamblingTableGuide_Prefix.pch -c /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableGuideViewController.m -o /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableGuideViewController.o0#
+
+CCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableView.o /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298773101.562395
+e298773101.712486
+r1
+xCompileC
+xbuild/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableView.o
+x/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.m:71: warning: incomplete implementation of class 'CrapsTableView'
+o/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.m:71: warning: method definition for '-buttonPressed:' not found
+lSLF07#2@87"Compile /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.m298773101#298773101#0(288"/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.m:71: warning: incomplete implementation of class 'CrapsTableView'/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.m:71: warning: method definition for '-buttonPressed:' not found2(22@51"Incomplete implementation of class 'CrapsTableView'298773101#0#145#0(6@79"/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.m298772813#71#0#71#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-buttonPressed:' not found298773101#145#143#0(6@79"/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.m298772813#71#0#71#0#35"method definition for '*' not found0(0#0#79"/Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.m4300911832#2403"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-gilzeheutozxhwbsautixxokubwq/CasinoGamblingTableGuide_Prefix.pch -c /Users/csilverstein/Documents/CasinoGamblingTableGuide/Classes/CrapsTableView.m -o /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableView.o0#
+
+CCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableView.o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298776886.038866
+e298776886.151094
+r1
+xCompileC
+xbuild/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableView.o
+x/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m:71: warning: incomplete implementation of class 'CrapsTableView'
+o/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m:71: warning: method definition for '-buttonPressed:' not found
+lSLF07#2@85"Compile /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m298776886#298776886#0(284"/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m:71: warning: incomplete implementation of class 'CrapsTableView'/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m:71: warning: method definition for '-buttonPressed:' not found2(22@51"Incomplete implementation of class 'CrapsTableView'298776886#0#143#0(6@77"/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m298772813#71#0#71#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-buttonPressed:' not found298776886#143#141#0(6@77"/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m298772813#71#0#71#0#35"method definition for '*' not found0(0#0#77"/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m4300911832#2381"    cd /Users/csilverstein/Sandbox/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-aaevqjcjoyqojmagminwfnowlmup/CasinoGamblingTableGuide_Prefix.pch -c /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/Classes/CrapsTableView.m -o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CrapsTableView.o0#
+
+CCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/main.o /Users/csilverstein/Documents/CasinoGamblingTableGuide/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298755629.895789
+e298755630.028565
+r1
+xCompileC
+xbuild/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/main.o
+x/Users/csilverstein/Documents/CasinoGamblingTableGuide/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/csilverstein/Documents/CasinoGamblingTableGuide/main.m298755629#298755630#0(0"0(0#0#61"/Users/csilverstein/Documents/CasinoGamblingTableGuide/main.m4300911832#2375"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-gilzeheutozxhwbsautixxokubwq/CasinoGamblingTableGuide_Prefix.pch -c /Users/csilverstein/Documents/CasinoGamblingTableGuide/main.m -o /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/main.o0#
+
+CCompileC build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/main.o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298776885.938974
+e298776886.038744
+r1
+xCompileC
+xbuild/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/main.o
+x/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/main.m298776885#298776886#0(0"0(0#0#59"/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/main.m4300911832#2353"    cd /Users/csilverstein/Sandbox/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -include /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-aaevqjcjoyqojmagminwfnowlmup/CasinoGamblingTableGuide_Prefix.pch -c /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/main.m -o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/csilverstein/Documents/CasinoGamblingTableGuide/MainWindow.xib
+s298776784.176874
+e298776784.798990
+r1
+xCompileXIB
+x/Users/csilverstein/Documents/CasinoGamblingTableGuide/MainWindow.xib
+o2010-06-20 21:33:04.531 Interface Builder Cocoa Touch Tool[18161:903] CFPreferences: user home directory at /Users/csilverstein/Library/Application Support/iPhone Simulator/User is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib298776784#298776784#0(225"2010-06-20 21:33:04.531 Interface Builder Cocoa Touch Tool[18161:903] CFPreferences: user home directory at /Users/csilverstein/Library/Application Support/iPhone Simulator/User is unavailable. User domains will be volatile.0(0#0#69"/Users/csilverstein/Documents/CasinoGamblingTableGuide/MainWindow.xib4300911832#547"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/MainWindow.nib /Users/csilverstein/Documents/CasinoGamblingTableGuide/MainWindow.xib0#
+
+CCompileXIB /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/Crapslayout.png Crapslayout.png
+s298761499.834051
+e298761499.867421
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CasinoGamblingTableGuide.app/Crapslayout.png
+xCrapslayout.png
+lSLF07#2@20"Copy Crapslayout.png298761499#298761499#0(0"0(0#0#70"/Users/csilverstein/Documents/CasinoGamblingTableGuide/Crapslayout.png4300911832#524"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/csilverstein/Documents/CasinoGamblingTableGuide/Crapslayout.png /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app0#
+
+CGenerateDSYMFile /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app.dSYM /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide
+s298773167.085064
+e298773167.106819
+r1
+xGenerateDSYMFile
+x/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app.dSYM
+x/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide
+lSLF07#2@160"GenerateDSYMFile build/Debug-iphonesimulator/CasinoGamblingTableGuide.app.dSYM build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide298773167#298773167#0(0"0(0#0#136"/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide4300911832#482"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide -o /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app.dSYM0#
+
+CGenerateDSYMFile /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app.dSYM /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide
+s298776886.244681
+e298776886.285584
+r1
+xGenerateDSYMFile
+x/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app.dSYM
+x/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide
+lSLF07#2@160"GenerateDSYMFile build/Debug-iphonesimulator/CasinoGamblingTableGuide.app.dSYM build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide298776886#298776886#0(0"0(0#0#134"/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide4300911832#476"    cd /Users/csilverstein/Sandbox/CasinoGamblingTableGuide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide -o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app.dSYM0#
+
+CLd /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide normal i386
+s298773167.061955
+e298773167.084951
+r1
+xLd
+x/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide
+xnormal
+xi386
+lSLF07#2@141"Link /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide298773167#298773167#0(0"0(0#0#0"4300911832#1029"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator -F/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator -filelist /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuide.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide0#
+
+CLd /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide normal i386
+s298776886.221852
+e298776886.244568
+r1
+xLd
+x/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide
+xnormal
+xi386
+lSLF07#2@139"Link /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide298776886#298776886#0(0"0(0#0#0"4300911832#1019"    cd /Users/csilverstein/Sandbox/CasinoGamblingTableGuide    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator -F/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator -filelist /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/Objects-normal/i386/CasinoGamblingTableGuide.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/CasinoGamblingTableGuide0#
+
+CProcessInfoPlistFile /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/Info.plist CasinoGamblingTableGuide-Info.plist
+s298755628.828239
+e298755628.836584
+r1
+xProcessInfoPlistFile
+x/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/Info.plist
+xCasinoGamblingTableGuide-Info.plist
+lSLF07#2@43"Process CasinoGamblingTableGuide-Info.plist298755628#298755628#0(0"0(0#0#90"/Users/csilverstein/Documents/CasinoGamblingTableGuide/CasinoGamblingTableGuide-Info.plist4300911832#578"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CasinoGamblingTableGuide-Info.plist -genpkginfo /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app/Info.plist CasinoGamblingTableGuide-Info.plist
+r0
+
+CProcessPCH /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-aaevqjcjoyqojmagminwfnowlmup/CasinoGamblingTableGuide_Prefix.pch.gch CasinoGamblingTableGuide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298776885.155341
+e298776885.938653
+r1
+xProcessPCH
+x/var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-aaevqjcjoyqojmagminwfnowlmup/CasinoGamblingTableGuide_Prefix.pch.gch
+xCasinoGamblingTableGuide_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Precompile CasinoGamblingTableGuide_Prefix.pch298776885#298776885#0(0"0(0#0#88"/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/CasinoGamblingTableGuide_Prefix.pch7956017078302896128#2214"    cd /Users/csilverstein/Sandbox/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -c /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/CasinoGamblingTableGuide_Prefix.pch -o /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-aaevqjcjoyqojmagminwfnowlmup/CasinoGamblingTableGuide_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-gilzeheutozxhwbsautixxokubwq/CasinoGamblingTableGuide_Prefix.pch.gch CasinoGamblingTableGuide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298755629.155127
+e298755629.895676
+r1
+xProcessPCH
+x/var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-gilzeheutozxhwbsautixxokubwq/CasinoGamblingTableGuide_Prefix.pch.gch
+xCasinoGamblingTableGuide_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Precompile CasinoGamblingTableGuide_Prefix.pch298755629#298755629#0(0"0(0#0#90"/Users/csilverstein/Documents/CasinoGamblingTableGuide/CasinoGamblingTableGuide_Prefix.pch7956017078302896128#2234"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-generated-files.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-own-target-headers.hmap -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-all-target-headers.hmap -iquote /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/CasinoGamblingTableGuide-project-headers.hmap -F/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/include -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources/i386 -I/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/CasinoGamblingTableGuide.build/Debug-iphonesimulator/CasinoGamblingTableGuide.build/DerivedSources -c /Users/csilverstein/Documents/CasinoGamblingTableGuide/CasinoGamblingTableGuide_Prefix.pch -o /var/folders/x6/x6ne2XlnH4GOTIMAi4j4x++++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CasinoGamblingTableGuide_Prefix-gilzeheutozxhwbsautixxokubwq/CasinoGamblingTableGuide_Prefix.pch.gch0#
+
+CTouch /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app
+s298776784.800022
+e298776784.802996
+r1
+xTouch
+x/Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app
+lSLF07#2@117"Touch /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app298776784#298776784#0(0"0(0#0#0"4300911832#327"    cd /Users/csilverstein/Documents/CasinoGamblingTableGuide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/csilverstein/Documents/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app0#
+
+CTouch /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app
+s298776886.285679
+e298776886.297724
+r1
+xTouch
+x/Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app
+lSLF07#2@115"Touch /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app298776886#298776886#0(0"0(0#0#0"4300911832#323"    cd /Users/csilverstein/Sandbox/CasinoGamblingTableGuide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/csilverstein/Sandbox/CasinoGamblingTableGuide/build/Debug-iphonesimulator/CasinoGamblingTableGuide.app0#
+

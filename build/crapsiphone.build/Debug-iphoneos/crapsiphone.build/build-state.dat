@@ -1,0 +1,708 @@
+Tcrapsiphone
+v7
+r0
+t291497522.478948
+cCheck dependencies
+cCpResource build/Debug-iphoneos/crapsiphone.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/Info.plist crapsiphone-Info.plist
+cCompileXIB /Users/gusm/Sandbox/crapsiphone/MainWindow.xib
+cCpResource build/Debug-iphoneos/crapsiphone.app/craps.gif craps.gif
+cCompileXIB /Users/gusm/Sandbox/crapsiphone/Classes/DetailBet.xib
+cCompileXIB /Users/gusm/Sandbox/crapsiphone/crapsiphoneViewController.xib
+cProcessPCH /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-aetwowaxhihmmfevysmgpgipunqi/crapsiphone_Prefix.pch.gch crapsiphone_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/main.o /Users/gusm/Sandbox/crapsiphone/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneAppDelegate.o /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneViewController.o /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/DetailBetController.o /Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone normal armv6
+cGenerateDSYMFile /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app.dSYM /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone
+cProcessProductPackaging "/Users/gusm/Library/MobileDevice/Provisioning Profiles/0EFBF0C2-D41B-462E-83E4-EABB18B97FBF.mobileprovision" /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision
+cTouch /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent
+cCodeSign /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+c000000004B2B3B9F00000000000000DD
+t1261124511
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004B91CF1E0000000000000110
+t1267846942
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+c000000004B8DF37E00000000000000DD
+t1267594110
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B8DF37E00000000000001E5
+t1267594110
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B8F4B2600000000003B4B70
+t1267682086
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B8F4B7B000000000036A600
+t1267682171
+s3581440
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B8F4B640000000000001355
+t1267682148
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B8F5620000000000000098F
+t1267684896
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B8F56A80000000002701D40
+t1267685032
+s40901952
+
+N/Users/constantine/Library/MobileDevice/Provisioning Profiles/0EFBF0C2-D41B-462E-83E4-EABB18B97FBF.mobileprovision
+c000000004BA6B7700000000000001C15
+t1269217136
+s7189
+
+N/Users/constantine/Sandbox/crapsiphone/../../Downloads/craps.gif
+c000000004BAEC48F0000000000002927
+t1269744783
+s10535
+
+N/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.h
+c000000004BAED43100000000000001FE
+t1269748785
+s510
+i<UIKit/UIKit.h>
+
+N/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m
+c000000004BAED43100000000000002BE
+t1269748785
+s702
+i"crapsiphoneAppDelegate.h"
+i"crapsiphoneViewController.h"
+
+N/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.h
+c000000004BAED7920000000000000177
+t1269749650
+s375
+i<UIKit/UIKit.h>
+
+N/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m
+c000000004BAEED330000000000000701
+t1269755187
+s1793
+i"crapsiphoneViewController.h"
+
+N/Users/constantine/Sandbox/crapsiphone/MainWindow.xib
+c000000004BAED4310000000000002678
+t1269748785
+s9848
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app
+t1269757741
+s408
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app.dSYM
+t1269756935
+s102
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/Info.plist
+t1269756983
+s742
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/MainWindow.nib
+t1269756934
+s1518
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/PkgInfo
+t1269756983
+s8
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/ResourceRules.plist
+t1269756933
+s485
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/craps.gif
+t1269756899
+s10535
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone
+t1269756935
+s22928
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphoneViewController.nib
+t1269756934
+s9427
+
+N/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision
+t1269756901
+s7189
+
+N/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphone.LinkFileList
+c000000004BAEF3E3000000000000019B
+t1269756899
+s411
+
+N/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneAppDelegate.o
+t1269756935
+s39016
+
+N/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneViewController.o
+t1269756935
+s33260
+
+N/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/main.o
+t1269756935
+s6448
+
+N/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent
+t1269756983
+s324
+
+N/Users/constantine/Sandbox/crapsiphone/crapsiphoneViewController.xib
+c000000004BAEF351000000000000DF25
+t1269756753
+s57125
+
+N/Users/constantine/Sandbox/crapsiphone/crapsiphone_Prefix.pch
+c000000004BAED43100000000000000BF
+t1269748785
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/constantine/Sandbox/crapsiphone/main.m
+c000000004BAED4310000000000000174
+t1269748785
+s372
+i<UIKit/UIKit.h>
+
+N/Users/gusm/Library/MobileDevice/Provisioning Profiles/0EFBF0C2-D41B-462E-83E4-EABB18B97FBF.mobileprovision
+c000000004BAEFB950000000000001C15
+t1269758869
+s7189
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m
+c000000004BAFAACF00000000000003F3
+t1269803727
+s1011
+i"DetailBetController.h"
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/DetailBet.xib
+c000000004BAFAEAC000000000000522A
+t1269804716
+s21034
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.h
+c000000004BAF821A0000000000000296
+t1269793306
+s662
+i<UIKit/UIKit.h>
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m
+c000000004BAFA1F5000000000000034C
+t1269801461
+s844
+i"crapsiphoneAppDelegate.h"
+i"crapsiphoneViewController.h"
+i"DetailBetController.h"
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.h
+c000000004BAF86990000000000000210
+t1269794457
+s528
+i<UIKit/UIKit.h>
+
+N/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m
+c000000004BAFA455000000000000063C
+t1269802069
+s1596
+i"crapsiphoneViewController.h"
+i"DetailBetController.h"
+
+N/Users/gusm/Sandbox/crapsiphone/DetailBetController.h
+c000000004BAF732C00000000000000E8
+t1269789484
+s232
+i<UIKit/UIKit.h>
+
+N/Users/gusm/Sandbox/crapsiphone/MainWindow.xib
+c000000004BAED4310000000000002678
+t1269748785
+s9848
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app
+t1269804722
+s442
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app.dSYM
+t1269804348
+s102
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/DetailBet.nib
+t1269804722
+s2489
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/Info.plist
+t1269756983
+s742
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/MainWindow.nib
+t1269756934
+s1518
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/PkgInfo
+t1269756983
+s8
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/ResourceRules.plist
+t1269756933
+s485
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/craps.gif
+t1269756899
+s10535
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone
+t1269804348
+s29296
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphoneViewController.nib
+t1269804347
+s9425
+
+N/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision
+t1269759429
+s7189
+
+N/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/DetailBetController.o
+t1269804347
+s31172
+
+N/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphone.LinkFileList
+c000000004BAFAD3A000000000000020A
+t1269804346
+s522
+
+N/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneAppDelegate.o
+t1269804347
+s40444
+
+N/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneViewController.o
+t1269804347
+s35952
+
+N/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/main.o
+t1269759429
+s6432
+
+N/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent
+t1269756983
+s324
+
+N/Users/gusm/Sandbox/crapsiphone/craps.gif
+c000000004BAEC48F0000000000002927
+t1269744783
+s10535
+
+N/Users/gusm/Sandbox/crapsiphone/crapsiphoneViewController.xib
+c000000004BAF84D1000000000000DF25
+t1269794001
+s57125
+
+N/Users/gusm/Sandbox/crapsiphone/crapsiphone_Prefix.pch
+c000000004BAED43100000000000000BF
+t1269748785
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/gusm/Sandbox/crapsiphone/main.m
+c000000004BAED4310000000000000174
+t1269748785
+s372
+i<UIKit/UIKit.h>
+
+N/var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-ancljoogizhliwcpotpsdklkkkim/crapsiphone_Prefix.pch.gch
+t1269756900
+s8962708
+
+N/var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-djkfqcdwvvnyeydtuaszhjwucyiy/crapsiphone_Prefix.pch.gch
+t1269756935
+s8388792
+
+N/var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-aetwowaxhihmmfevysmgpgipunqi/crapsiphone_Prefix.pch.gch
+t1269759429
+s8388792
+
+Ncrapsiphone-Info.plist
+c000000004BAEF4310000000000000420
+t1269756977
+s1056
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291497521#291497522#0(0"0(0#1#0"4300911832#0"0#
+
+CCodeSign /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app
+s291450541.249102
+e291450541.468642
+r0
+xCodeSign
+x/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app
+o/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app: replacing invalid existing signature
+o/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app: CSSMERR_TP_NOT_TRUSTED
+lSLF07#2@45"CodeSign build/Debug-iphoneos/crapsiphone.app291450541#291450541#0(264"/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app: replacing invalid existing signature/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app: CSSMERR_TP_NOT_TRUSTEDCommand /usr/bin/codesign failed with exit code 11(4@49"Command /usr/bin/codesign failed with exit code 1291450541#18446744073709551615#0#0(1@0"0(0#0#75"/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app4300911832#702"    cd /Users/constantine/Sandbox/crapsiphone    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Constantinos Mavromoustakos (NR569S39VT)" --resource-rules=/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/ResourceRules.plist --entitlements /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app1#
+
+CCodeSign /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app
+s291497522.333130
+e291497522.478906
+r1
+xCodeSign
+x/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app
+o/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app: replacing existing signature
+lSLF07#2@45"CodeSign build/Debug-iphoneos/crapsiphone.app291497522#291497522#0(99"/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app: replacing existing signature0(0#0#68"/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app4300911832#674"    cd /Users/gusm/Sandbox/crapsiphone    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Constantinos Mavromoustakos (NR569S39VT)" --resource-rules=/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/ResourceRules.plist --entitlements /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app0#
+
+CCompileC build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/DetailBetController.o /Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s291497147.813095
+e291497147.869944
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/DetailBetController.o
+x/Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m291497147#291497147#0(0"0(0#0#64"/Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m4300911832#1772"    cd /Users/gusm/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos -I/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/include -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources/armv6 -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources -include /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-aetwowaxhihmmfevysmgpgipunqi/crapsiphone_Prefix.pch -c /Users/gusm/Sandbox/crapsiphone/Classes/../DetailBetController.m -o /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/DetailBetController.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneAppDelegate.o /Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s291449735.316418
+e291449735.480366
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneAppDelegate.o
+x/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m291449735#291449735#0(0"0(0#0#71"/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m4300911832#1852"    cd /Users/constantine/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos -I/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/include -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources/armv6 -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources -include /var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-djkfqcdwvvnyeydtuaszhjwucyiy/crapsiphone_Prefix.pch -c /Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m -o /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneAppDelegate.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneAppDelegate.o /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s291497147.097151
+e291497147.812998
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneAppDelegate.o
+x/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m291497147#291497147#0(0"0(0#0#64"/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m4300911832#1775"    cd /Users/gusm/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos -I/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/include -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources/armv6 -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources -include /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-aetwowaxhihmmfevysmgpgipunqi/crapsiphone_Prefix.pch -c /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneAppDelegate.m -o /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneAppDelegate.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneViewController.o /Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s291449735.387736
+e291449735.502123
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneViewController.o
+x/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m291449735#291449735#0(0"0(0#0#74"/Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m4300911832#1858"    cd /Users/constantine/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos -I/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/include -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources/armv6 -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources -include /var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-djkfqcdwvvnyeydtuaszhjwucyiy/crapsiphone_Prefix.pch -c /Users/constantine/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m -o /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneViewController.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneViewController.o /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s291497147.098155
+e291497147.814219
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneViewController.o
+x/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m291497147#291497147#0(0"0(0#0#67"/Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m4300911832#1781"    cd /Users/gusm/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos -I/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/include -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources/armv6 -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources -include /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-aetwowaxhihmmfevysmgpgipunqi/crapsiphone_Prefix.pch -c /Users/gusm/Sandbox/crapsiphone/Classes/crapsiphoneViewController.m -o /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphoneViewController.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/main.o /Users/constantine/Sandbox/crapsiphone/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s291449735.314807
+e291449735.387624
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/main.o
+x/Users/constantine/Sandbox/crapsiphone/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/constantine/Sandbox/crapsiphone/main.m291449735#291449735#0(0"0(0#0#45"/Users/constantine/Sandbox/crapsiphone/main.m4300911832#1808"    cd /Users/constantine/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos -I/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/include -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources/armv6 -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources -include /var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-djkfqcdwvvnyeydtuaszhjwucyiy/crapsiphone_Prefix.pch -c /Users/constantine/Sandbox/crapsiphone/main.m -o /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/main.o /Users/gusm/Sandbox/crapsiphone/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s291452229.461540
+e291452229.513984
+r1
+xCompileC
+xbuild/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/main.o
+x/Users/gusm/Sandbox/crapsiphone/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/gusm/Sandbox/crapsiphone/main.m291452229#291452229#0(0"0(0#0#38"/Users/gusm/Sandbox/crapsiphone/main.m4300911832#1731"    cd /Users/gusm/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos -I/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/include -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources/armv6 -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources -include /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-aetwowaxhihmmfevysmgpgipunqi/crapsiphone_Prefix.pch -c /Users/gusm/Sandbox/crapsiphone/main.m -o /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/constantine/Sandbox/crapsiphone/MainWindow.xib
+s291449733.757417
+e291449734.559333
+r1
+xCompileXIB
+x/Users/constantine/Sandbox/crapsiphone/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib291449733#291449734#0(0"0(0#0#53"/Users/constantine/Sandbox/crapsiphone/MainWindow.xib4300911832#472"    cd /Users/constantine/Sandbox/crapsiphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/MainWindow.nib /Users/constantine/Sandbox/crapsiphone/MainWindow.xib0#
+
+CCompileXIB /Users/constantine/Sandbox/crapsiphone/crapsiphoneViewController.xib
+s291449733.758491
+e291449734.675284
+r1
+xCompileXIB
+x/Users/constantine/Sandbox/crapsiphone/crapsiphoneViewController.xib
+lSLF07#2@40"CompileXIB crapsiphoneViewController.xib291449733#291449734#0(0"0(0#0#68"/Users/constantine/Sandbox/crapsiphone/crapsiphoneViewController.xib4300911832#502"    cd /Users/constantine/Sandbox/crapsiphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphoneViewController.nib /Users/constantine/Sandbox/crapsiphone/crapsiphoneViewController.xib0#
+
+CCompileXIB /Users/gusm/Sandbox/crapsiphone/Classes/DetailBet.xib
+s291497521.992594
+e291497522.328833
+r1
+xCompileXIB
+x/Users/gusm/Sandbox/crapsiphone/Classes/DetailBet.xib
+lSLF07#2@32"CompileXIB Classes/DetailBet.xib291497521#291497522#0(0"0(0#0#53"/Users/gusm/Sandbox/crapsiphone/Classes/DetailBet.xib4300911832#457"    cd /Users/gusm/Sandbox/crapsiphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/DetailBet.nib /Users/gusm/Sandbox/crapsiphone/Classes/DetailBet.xib0#
+
+CCompileXIB /Users/gusm/Sandbox/crapsiphone/MainWindow.xib
+r0
+
+CCompileXIB /Users/gusm/Sandbox/crapsiphone/crapsiphoneViewController.xib
+s291497146.608069
+e291497147.096850
+r1
+xCompileXIB
+x/Users/gusm/Sandbox/crapsiphone/crapsiphoneViewController.xib
+lSLF07#2@40"CompileXIB crapsiphoneViewController.xib291497146#291497147#0(0"0(0#0#61"/Users/gusm/Sandbox/crapsiphone/crapsiphoneViewController.xib4300911832#481"    cd /Users/gusm/Sandbox/crapsiphone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphoneViewController.nib /Users/gusm/Sandbox/crapsiphone/crapsiphoneViewController.xib0#
+
+CCpResource build/Debug-iphoneos/crapsiphone.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+s291449733.723084
+e291449733.756902
+r1
+xCpResource
+xbuild/Debug-iphoneos/crapsiphone.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist291449733#291449733#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist4300911832#486"    cd /Users/constantine/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app0#
+
+CCpResource build/Debug-iphoneos/crapsiphone.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s291449699.374899
+e291449699.417898
+r1
+xCpResource
+xbuild/Debug-iphoneos/crapsiphone.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist291449699#291449699#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist7311142388610462720#484"    cd /Users/constantine/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app0#
+
+CCpResource build/Debug-iphoneos/crapsiphone.app/craps.gif ../../Downloads/craps.gif
+s291449699.859124
+e291449699.865342
+r1
+xCpResource
+xbuild/Debug-iphoneos/crapsiphone.app/craps.gif
+x../../Downloads/craps.gif
+lSLF07#2@30"Copy ../../Downloads/craps.gif291449699#291449699#0(0"0(0#0#64"/Users/constantine/Sandbox/crapsiphone/../../Downloads/craps.gif4300911832#459"    cd /Users/constantine/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/constantine/Sandbox/crapsiphone/../../Downloads/craps.gif /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app0#
+
+CCpResource build/Debug-iphoneos/crapsiphone.app/craps.gif craps.gif
+r0
+
+CGenerateDSYMFile /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app.dSYM /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone
+s291449735.769966
+e291449735.787194
+r1
+xGenerateDSYMFile
+x/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app.dSYM
+x/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/crapsiphone.app.dSYM build/Debug-iphoneos/crapsiphone.app/crapsiphone291449735#291449735#0(0"0(0#0#87"/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone4300911832#374"    cd /Users/constantine/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone -o /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app.dSYM0#
+
+CGenerateDSYMFile /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app.dSYM /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone
+s291497148.130199
+e291497148.148598
+r1
+xGenerateDSYMFile
+x/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app.dSYM
+x/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/crapsiphone.app.dSYM build/Debug-iphoneos/crapsiphone.app/crapsiphone291497148#291497148#0(0"0(0#0#80"/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone4300911832#353"    cd /Users/gusm/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone -o /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app.dSYM0#
+
+CLd /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone normal armv6
+s291449735.502229
+e291449735.769839
+r1
+xLd
+x/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone
+xnormal
+xarmv6
+lSLF07#2@92"Link /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone291449735#291449735#0(0"0(0#0#0"4300911832#848"    cd /Users/constantine/Sandbox/crapsiphone    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -L/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos -F/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos -filelist /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphone.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone0#
+
+CLd /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone normal armv6
+s291497147.870045
+e291497148.129998
+r1
+xLd
+x/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone
+xnormal
+xarmv6
+lSLF07#2@85"Link /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone291497147#291497148#0(0"0(0#0#0"4300911832#813"    cd /Users/gusm/Sandbox/crapsiphone    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -L/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos -filelist /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/Objects-normal/armv6/crapsiphone.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/crapsiphone0#
+
+CProcessInfoPlistFile /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/Info.plist crapsiphone-Info.plist
+s291449783.198928
+e291449783.209870
+r1
+xProcessInfoPlistFile
+x/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/Info.plist
+xcrapsiphone-Info.plist
+lSLF07#2@30"Process crapsiphone-Info.plist291449783#291449783#0(0"0(0#0#61"/Users/constantine/Sandbox/crapsiphone/crapsiphone-Info.plist4300911832#578"    cd /Users/constantine/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility crapsiphone-Info.plist -genpkginfo /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/ResourceRules.plist -o /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/Info.plist crapsiphone-Info.plist
+r0
+
+CProcessPCH /var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-ancljoogizhliwcpotpsdklkkkim/crapsiphone_Prefix.pch.gch crapsiphone_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s291449700.079916
+e291449700.920858
+r1
+xProcessPCH
+x/var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-ancljoogizhliwcpotpsdklkkkim/crapsiphone_Prefix.pch.gch
+xcrapsiphone_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile crapsiphone_Prefix.pch291449700#291449700#0(0"0(0#0#61"/Users/constantine/Sandbox/crapsiphone/crapsiphone_Prefix.pch4300911832#1698"    cd /Users/constantine/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos -I/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/include -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources/armv6 -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources -c /Users/constantine/Sandbox/crapsiphone/crapsiphone_Prefix.pch -o /var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-ancljoogizhliwcpotpsdklkkkim/crapsiphone_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-djkfqcdwvvnyeydtuaszhjwucyiy/crapsiphone_Prefix.pch.gch crapsiphone_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s291449734.675505
+e291449735.314497
+r1
+xProcessPCH
+x/var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-djkfqcdwvvnyeydtuaszhjwucyiy/crapsiphone_Prefix.pch.gch
+xcrapsiphone_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile crapsiphone_Prefix.pch291449734#291449735#0(0"0(0#0#61"/Users/constantine/Sandbox/crapsiphone/crapsiphone_Prefix.pch4300911832#1702"    cd /Users/constantine/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos -I/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/include -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources/armv6 -I/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources -c /Users/constantine/Sandbox/crapsiphone/crapsiphone_Prefix.pch -o /var/folders/RQ/RQP8sf2SHnObWPC7S63FgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/crapsiphone_Prefix-djkfqcdwvvnyeydtuaszhjwucyiy/crapsiphone_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-aetwowaxhihmmfevysmgpgipunqi/crapsiphone_Prefix.pch.gch crapsiphone_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s291452228.841214
+e291452229.461422
+r1
+xProcessPCH
+x/var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-aetwowaxhihmmfevysmgpgipunqi/crapsiphone_Prefix.pch.gch
+xcrapsiphone_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile crapsiphone_Prefix.pch291452228#291452229#0(0"0(0#0#54"/Users/gusm/Sandbox/crapsiphone/crapsiphone_Prefix.pch4300911832#1632"    cd /Users/gusm/Sandbox/crapsiphone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-generated-files.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-own-target-headers.hmap -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-all-target-headers.hmap -iquote /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone-project-headers.hmap -F/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos -I/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/include -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources/armv6 -I/Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/DerivedSources -c /Users/gusm/Sandbox/crapsiphone/crapsiphone_Prefix.pch -o /var/folders/yS/ySJOHXmoEzaxu5e8M63UHE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/crapsiphone_Prefix-aetwowaxhihmmfevysmgpgipunqi/crapsiphone_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/constantine/Library/MobileDevice/Provisioning Profiles/0EFBF0C2-D41B-462E-83E4-EABB18B97FBF.mobileprovision" /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision
+s291449701.476412
+e291449701.477963
+r1
+xProcessProductPackaging
+x/Users/constantine/Library/MobileDevice/Provisioning Profiles/0EFBF0C2-D41B-462E-83E4-EABB18B97FBF.mobileprovision
+x/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision
+lSLF07#2@202"ProcessProductPackaging "/Users/constantine/Library/MobileDevice/Provisioning Profiles/0EFBF0C2-D41B-462E-83E4-EABB18B97FBF.mobileprovision" build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision291449701#291449701#0(0"0(0#0#100"/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision4300911832#433"    cd /Users/constantine/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/constantine/Library/MobileDevice/Provisioning Profiles/0EFBF0C2-D41B-462E-83E4-EABB18B97FBF.mobileprovision" -o /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/gusm/Library/MobileDevice/Provisioning Profiles/0EFBF0C2-D41B-462E-83E4-EABB18B97FBF.mobileprovision" /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision
+s291452229.633845
+e291452229.635494
+r1
+xProcessProductPackaging
+x/Users/gusm/Library/MobileDevice/Provisioning Profiles/0EFBF0C2-D41B-462E-83E4-EABB18B97FBF.mobileprovision
+x/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision
+lSLF07#2@195"ProcessProductPackaging "/Users/gusm/Library/MobileDevice/Provisioning Profiles/0EFBF0C2-D41B-462E-83E4-EABB18B97FBF.mobileprovision" build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision291452229#291452229#0(0"0(0#0#93"/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision4300911832#412"    cd /Users/gusm/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/gusm/Library/MobileDevice/Provisioning Profiles/0EFBF0C2-D41B-462E-83E4-EABB18B97FBF.mobileprovision" -o /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent
+s291449783.214272
+e291449783.217976
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+x/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent
+lSLF07#2@189"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent291449783#291449783#0(0"0(0#0#113"/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent4300911832#446"    cd /Users/constantine/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/gusm/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent
+s291449701.481649
+e291449701.498567
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent
+lSLF07#2@187"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent291449701#291449701#0(0"0(0#0#113"/Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent4300911832#444"    cd /Users/constantine/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/constantine/Sandbox/crapsiphone/build/crapsiphone.build/Debug-iphoneos/crapsiphone.build/crapsiphone.xcent0#
+
+CTouch /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app
+s291449783.210768
+e291449783.214160
+r1
+xTouch
+x/Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app
+lSLF07#2@81"Touch /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app291449783#291449783#0(0"0(0#0#0"4300911832#268"    cd /Users/constantine/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/constantine/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app0#
+
+CTouch /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app
+s291497522.329675
+e291497522.333002
+r1
+xTouch
+x/Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app
+lSLF07#2@74"Touch /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app291497522#291497522#0(0"0(0#0#0"4300911832#254"    cd /Users/gusm/Sandbox/crapsiphone    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/gusm/Sandbox/crapsiphone/build/Debug-iphoneos/crapsiphone.app0#
+
